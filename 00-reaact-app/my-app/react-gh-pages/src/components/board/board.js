@@ -14,17 +14,17 @@ const shuffleArray = arr => (
 const initialChars = [
     {
         name: 'Gag Grouper',
-        img: 'img/250x180/Gag_Grouper.jpeg',
+        img: 'img/250x180/Gag_Grouper.jpg',
         clicked: false
     },
     {
         name: 'Grasby Grouper',
-        img: 'img/250x180/Grasby_Grouper.jpeg',
+        img: 'img/250x180/Grasby_Grouper.jpg',
         clicked: false
     },
     {
         name: 'Gulf Flounder',
-        img: 'img/250x180/Gulf_Flounder.jpeg',
+        img: 'img/250x180/Gulf_Flounder.jpg',
         clicked: false
     },
     {
@@ -136,7 +136,7 @@ export default class Board extends Component {
                     length={'30px'}
                     direction={'bottom'}
                     delay={'1s'}>
-                    <h4>Try to click on every NBA Player once. Once you click a player the grid will shuffle.<br/>Try not to click the same NBA Player twice or the game will start all over!</h4>
+                    <h4>Try to click on every fish once. Once you click a fish the grid will shuffle.<br/>Try not to click the same fish twice or the game will start all over!</h4>
                 </FadeIn>
                 <FadeIn 
                     in={true}
