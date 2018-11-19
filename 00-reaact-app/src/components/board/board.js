@@ -13,78 +13,78 @@ const shuffleArray = arr => (
 
 const initialChars = [
     {
-        name: 'Allen Iverson',
-        img: 'img/250x180/allen-iverson.png',
+        name: 'Gag Grouper',
+        img: 'img/250x180/Gag_Grouper.jpeg',
         clicked: false
     },
     {
-        name: 'Blake Griffin',
-        img: 'img/250x180/blake-griffin.png',
+        name: 'Grasby Grouper',
+        img: 'img/250x180/Grasby_Grouper.jpeg',
         clicked: false
     },
     {
-        name: 'Carmelo Anthony',
-        img: 'img/250x180/carmelo-anthony.png',
+        name: 'Gulf Flounder',
+        img: 'img/250x180/Gulf_Flounder.jpeg',
         clicked: false
     },
     {
-        name: 'Colby Bryant',
-        img: 'img/250x180/colby-bryant.png',
+        name: 'Mahi Mahi',
+        img: 'img/250x180/Mahi_Mahi.jpg',
         clicked: false
     },
     {
-        name: 'Demar Derozan',
-        img: 'img/250x180/demar-derozan.png',
+        name: 'Nassau Grouper',
+        img: 'img/250x180/Nassau_Grouper.jpg',
         clicked: false
     },
     {
-        name: 'Derrick Rose',
-        img: 'img/250x180/derrick-rose.png',
+        name: 'Queen Snapper',
+        img: 'img/250x180/Queen_Snapper.jpg',
         clicked: false
     },
     {
-        name: 'Devin Booker',
-        img: 'img/250x180/devin-booker.png',
+        name: 'Rainbow Runner',
+        img: 'img/250x180/Rainbow_Runner.jpg',
         clicked: false
     },
     {
-        name: 'Draymond Green',
-        img: 'img/250x180/draymond-green.png',
+        name: 'Red Grouper',
+        img: 'img/250x180/Red_Grouper.jpg',
         clicked: false
     },
     {
-        name: 'James Harden',
-        img: 'img/250x180/james-harden.png',
+        name: 'Red Snapper',
+        img: 'img/250x180/Red_Snapper.jpg',
         clicked: false
     },
     {
-        name: 'Jeremy Lin',
-        img: 'img/250x180/jeremy-lin.png',
+        name: 'Redfish',
+        img: 'img/250x180/Redfish.jpg',
         clicked: false
     },
     {
-        name: 'Kevin Durant',
-        img: 'img/250x180/kevin-durant.png',
+        name: 'Scamp Grouper',
+        img: 'img/250x180/Scamp_Grouper.jpg',
         clicked: false
     },
     {
-        name: 'Kyrie Irving',
-        img: 'img/250x180/kyrie-irving.png',
+        name: 'Snowy Grouper',
+        img: 'img/250x180/Snowy_Grouper.jpg',
         clicked: false
     },
     {
-        name: 'Lebron James',
-        img: 'img/250x180/lebron-james.png',
+        name: 'Southern Flounder',
+        img: 'img/250x180/Southern_Flounder.jpg',
         clicked: false
     },
     {
-        name: 'Lonzo-Ball',
-        img: 'img/250x180/lonzo-ball.png',
+        name: 'Spanish Mackeral',
+        img: 'img/250x180/Spanish_Mackeral.jpg',
         clicked: false
     },
     {
-        name: 'Russell Westbrook',
-        img: 'img/250x180/russell-westbrook.png',
+        name: 'Tiger Grouper',
+        img: 'img/250x180/Tiger_Grouper.jpg',
         clicked: false
     }
 ]
