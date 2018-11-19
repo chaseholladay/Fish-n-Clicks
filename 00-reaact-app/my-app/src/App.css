@@ -1,5 +1,5 @@
 body {
-  background: url(/img/background_fishing.jpg);
+  background: url(../public/img/background_fishing.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
