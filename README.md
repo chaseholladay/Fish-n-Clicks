@@ -1,7 +1,7 @@
 # Fish-n-Clicks
 A clicky game where you identify marine fishes
 
-# Technologies used
+# Technologies Used
 React
 Surge
 Transitions
