@@ -7,7 +7,7 @@ const Header = () => { return(
             <h1>Fish-n-Clicks</h1>
         </FadeIn>
         <FadeIn in={true} duration={600} length={'50px'} direction={'bottom'} >
-            <h1>Gulf of Mexico Edition</h1>
+            <h2>Gulf of Mexico Edition</h2>
         </FadeIn>
     </header>
 )};
